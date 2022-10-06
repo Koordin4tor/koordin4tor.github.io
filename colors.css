@@ -1,0 +1,28 @@
+.dotted.card-header,
+.dotted.card-footer {
+    background-color: rgb(40, 31, 73);
+}
+
+.dotted.card-main {
+    background-color: rgb(107, 99, 134);
+}
+
+.sudoku.card-header,
+.sudoku.card-footer {
+    background-color: rgb(60, 73, 31);
+}
+
+.sudoku.card-main {
+    background-color: rgb(123, 134, 99);
+}
+
+.unknown.card-header,
+.unknown.card-footer {
+    background-color: rgb(134, 123, 99);
+}
+
+.unknown.card-main {
+    background-color: rgb(134, 123, 99);
+    font-size: 10em;
+    color: antiquewhite;
+}
