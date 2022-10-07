@@ -117,7 +117,7 @@ body {
     background-color: rgb(13, 10, 24);
     width: 100%;
     color: rgb(175, 175, 175);
-    font-size: 1.5em;
+    font-size: 2em;
     padding: 0.2em;
     display: flex;
     justify-content: center;
@@ -126,11 +126,19 @@ body {
 }
 
 .bottom-container img {
-    width: 1.5em;
-    height: 1.5em;
+    width: 1.75em;
+    height: 1.75em;
+    margin-right: 0.2em;
 }
 
 .bottom-container a {
     color: rgb(175, 175, 175);
     text-decoration: none;
+}
+
+.bottom-container div {
+    display: flex;
+    justify-content: center;color: antiquewhite;
+    align-items: center;
+    box-sizing: border-box;
 }
