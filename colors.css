@@ -16,6 +16,24 @@
     background-color: rgb(123, 134, 99);
 }
 
+.battlezone.card-header,
+.battlezone.card-footer {
+    background-color: rgb(31, 46, 73);
+}
+
+.battlezone.card-main {
+    background-color: rgb(99, 116, 134);
+}
+
+.granny_on_tour.card-header,
+.granny_on_tour.card-footer {
+    background-color: rgb(53, 73, 31);
+}
+
+.granny_on_tour.card-main {
+    background-color: rgb(107, 134, 99);
+}
+
 .unknown.card-header,
 .unknown.card-footer {
     background-color: rgb(134, 123, 99);
